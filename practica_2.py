@@ -10,3 +10,6 @@ print("ahora estoy haciendo la practica_5")
 print("haciendo un cambio en el branch practica_5")
 
 print("hciendo un cambio en el branch practica_5 luego del pull resquest")
+
+print("ahora estoy haciendo la practica_6")
+
